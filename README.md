@@ -119,4 +119,4 @@ This lets you test `ssh vpnadmin@YOUR_VPS_IP` before root SSH access is disabled
 
 ---
 
-Contributions welcome from anyone who runs their own stack—Gilfoyle types, indie devs, and non-corporate agents preferred. No pitch decks required.
+Contributions welcome.
