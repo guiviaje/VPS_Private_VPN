@@ -2,7 +2,7 @@
 
 **One-click self-hosted VPN · WireGuard + wg-easy on Ubuntu VPS · dedicated IP · bypass geo-blocking and LLM region restrictions**
 
-A VPS running WireGuard is one of the simplest ways to get a **private VPN** with a **fixed, dedicated IP**—no subscription theater, no “your region is not supported.” Useful when LLM providers, streaming services, or other gatekeepers decide where you’re allowed to exist on the internet. This script gets you from zero to your own exit node in one run. The cloud is someone else’s computer; this one is yours.
+A VPS running WireGuard is one of the simplest ways to get a **private VPN** with a **fixed, dedicated IP**—no subscription theater, no “your region is not supported.” Useful when LLM providers, streaming services, or other gatekeepers decide where you’re allowed to exist on the internet. This script gets you from zero to your own exit node in one run.
 
 Minimal script to install WireGuard + wg-easy on an Ubuntu VPS.
 
