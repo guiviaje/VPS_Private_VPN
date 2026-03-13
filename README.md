@@ -10,6 +10,7 @@ This repo is meant to stay shareable:
 - `setup-vpn.sh`
 - `.env.example`
 - `README.md`
+- **[instructions/](instructions/)** — Step-by-step guides (e.g. [Contabo](instructions/contabo/)) you can give to an AI agent to provision a VPS and run this script.
 
 ## Requirements
 
