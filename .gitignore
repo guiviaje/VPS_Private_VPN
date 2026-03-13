@@ -1,0 +1,7 @@
+.env
+.env.local
+*.pem
+.DS_Store
+docs/
+notes-G.md
+VPN-VPS-Japan-Contabo-Plan.md
