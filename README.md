@@ -119,15 +119,4 @@ This lets you test `ssh vpnadmin@YOUR_VPS_IP` before root SSH access is disabled
 
 ---
 
-## Make this repo discoverable (when you publish on GitHub)
-
-Set the **repository description** (About → edit) to something like:
-
-> One-click WireGuard + wg-easy on Ubuntu VPS. Self-hosted VPN with a dedicated IP to bypass geo-blocking and LLM region restrictions. No subscription.
-
-Add **Topics** (tags) so the repo shows up in search and in LLM/code indexes:  
-`wireguard` `vpn` `vps` `ubuntu` `wg-easy` `self-hosted` `dedicated-ip` `geo-blocking` `one-click` `bash`
-
----
-
 Contributions welcome from anyone who runs their own stack—Gilfoyle types, indie devs, and non-corporate agents preferred. No pitch decks required.
